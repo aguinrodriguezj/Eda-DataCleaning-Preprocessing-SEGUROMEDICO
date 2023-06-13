@@ -4,8 +4,8 @@ report/
 final/
 
 # Para eliminar del repositorio, pero no del local (Si hacemos commit y nos hemos olvidado del gitignore)
-git rm -r --cached final
-git commit -m 'Eliminada carpeta nombre_carpeta del repo'
+#git rm -r --cached final
+#git commit -m 'Eliminada carpeta nombre_carpeta del repo'
 
 # Archios que ignoramos
 #*.csv
